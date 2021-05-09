@@ -1,2 +1,2 @@
-# ASPNETCORE
-asp net core test
+# Csharpstudy
+System in C# program
