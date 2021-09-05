@@ -1,0 +1,23 @@
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.deps.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.runtimeconfig.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.runtimeconfig.dev.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.exe
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.exe
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.deps.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.runtimeconfig.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.runtimeconfig.dev.json
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.dll
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.pdb
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.dll
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\bin\Debug\netcoreapp3.1\APIAudaces.pdb
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.csproj.AssemblyReference.cache
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.AssemblyInfoInputs.cache
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.AssemblyInfo.cs
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.csproj.CoreCompileInputs.cache
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.csproj.CopyComplete
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.dll
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.pdb
+C:\Users\Cold\Documents\Visual Studio 2019\APIAudaces\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.genruntimeconfig.cache
